@@ -20,6 +20,13 @@ Thumbs.db
 
 # IDE
 .vscode/
+*.bak
+
+# Node & Frontend
+node_modules/
+frontend/dist/
+frontend/node_modules/
+
 # External reference datasets
 data/external/
 
